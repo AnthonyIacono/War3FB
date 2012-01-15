@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Lighter</title>
+        <title>War3: Source for Facebook</title>
         <script type="text/javascript" src="/js/jquery.js"></script>
     </head>
     <body>
